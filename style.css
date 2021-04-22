@@ -1,4 +1,30 @@
-﻿body 
+﻿body {
+    font-family: 'Franklin Gothic';
+    background-color: lightskyblue;
+}
+li a
 {
-
+    float:left;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    text-transform:uppercase;
+    text-decoration:none;
+    border-radius: 50px;
+    background-color:darkred;
+}
+ul 
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li a:visited
+{
+    color:white;
+}
+li a:hover
+{
+    transform:scale(1.2);
 }
