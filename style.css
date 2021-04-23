@@ -18,8 +18,10 @@ li a
 }
 li b 
 {
-    padding: 20px;
+    padding-left: 20px;
     font-size: 150%;
+    display:block;
+    margin-top:20px;
 }
 ul 
 {
@@ -35,9 +37,9 @@ li a:hover
 {
     transform:scale(1.2);
 }
-h1 
+#title
 {
-    font-size: 300%;
+    font-size: 250%;
     padding: 20px;
     margin: 0px;
     text-transform: uppercase;
@@ -45,6 +47,22 @@ h1
 h2 
 {
     font-size: 150%;
+    padding-left: 20px;
+    padding-bottom:15px;
+    padding-top:15px;
+    margin: 0px;
+}
+h3
+{
+    font-size: 100%;
+    padding-left: 40px;
+    margin: 0px;
+}
+#name
+{
+    font-size: 350%;
     padding: 20px;
     margin: 0px;
+    text-transform: uppercase;
+    text-decoration:underline;
 }
