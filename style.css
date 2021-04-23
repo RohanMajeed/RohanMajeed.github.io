@@ -14,7 +14,7 @@ li a
     text-decoration: none;
     border-radius: 50px;
     background-color: black;
-    color: crimson;
+    color: white;
 }
 li b 
 {
@@ -29,9 +29,9 @@ ul
     padding: 0;
     margin: 0;
 }
-li a:active
+li a:visited
 {
-    color:white;
+    color:crimson;
 }
 li a:hover
 {
