@@ -2,7 +2,6 @@
 {
     font-family: 'Franklin Gothic';
     background-color:yellowgreen;
-    color:black;
 }
 li a 
 {
@@ -38,26 +37,26 @@ li a:hover
 {
     transform:scale(1.2);
 }
-#title
-{
+#title {
     font-size: 250%;
     padding: 20px;
     margin: 0px;
     text-transform: uppercase;
+    color: black;
 }
-h2 
-{
+h2 {
     font-size: 150%;
     padding-left: 20px;
-    padding-bottom:15px;
-    padding-top:15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     margin: 0px;
+    color: black;
 }
-h3
-{
+h3 {
     font-size: 100%;
     padding-left: 40px;
     margin: 0px;
+    color: black;
 }
 #name
 {
@@ -66,4 +65,5 @@ h3
     margin: 0px;
     text-transform: uppercase;
     text-decoration:underline;
+    color:black;
 }
